@@ -74,17 +74,20 @@ h2 {
 }
 
 .nav-item {
+  margin-left: 30px;
   padding: calc(var(--nav-height) / 2 - var(--nav-font-size)) 25px;
   font-size: var(--nav-font-size);
   font-weight: 700;
   color: var(--color-grey);
   text-transform: uppercase;
   letter-spacing: 0.1875rem;
+  transition: .3s;
 }
 
 .nav-item:hover {
   color: var(--color-black);
   border-bottom: 4px solid var(--color-primary);
+  cursor: pointer;
 }
 
 /* BANNER */
@@ -454,9 +457,7 @@ height: 327px;
   height: 300px;
 }
 
-.pricing-basic .pricing-items,
-.pricing-professional .pricing-items,
-.pricing-premium .pricing-items {
+.pricing-items {
   display: flex;
   flex-direction: column;
   justify-content: center;
