@@ -6,7 +6,3 @@ Project made during the Coders Lab workshop. Live demo here: https://eparzych.gi
 - HTML5
 - advanced CSS3 
 - CSS Flex Box Layout
-- GULP
-
-Setup:
-- GULP
