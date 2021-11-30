@@ -2,4 +2,7 @@
 
 Project made during the Coders Lab workshop.
 
-Using HTML and advanced CSS, flexbox.
+#Technologies Used
+Using HTML5
+advanced CSS3 
+flexbox
