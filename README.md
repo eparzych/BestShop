@@ -1,8 +1,14 @@
 # BestShop
 
-Project made during the Coders Lab workshop.
+Project made during the Coders Lab workshop. Live demo here: https://eparzych.github.io/BestShop/
 
-#Technologies Used
-Using HTML5
+Technologies Used:
+
+HTML5
+
 advanced CSS3 
-flexbox
+
+CSS Flex Box Layout
+
+
+Setup:
